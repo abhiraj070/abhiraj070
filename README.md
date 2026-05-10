@@ -169,25 +169,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <br/>
 
 
-<!-- ───────────────────────────  COMPETITIVE CODING + WAKATIME  ─────────────────────────── -->
-
-## &#x1F3AF; &nbsp;Competitive Programming & Coding Time
-
-<!--
-  The cards below assume your handles match "abhiraj070" — change them if not.
-  Search for VERIFY_HANDLE in this section.
--->
-
-<div align="center">
-
-<a href="https://leetcode.com/u/AbhirajSharma/">
-  <img src="https://leetcard.jacoblin.cool/VERIFY_HANDLE_leetcode?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" height="200" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ───────────────────────────  TROPHIES  ─────────────────────────── -->
 
 ## &#x1F3C6; &nbsp;Trophy Cabinet
