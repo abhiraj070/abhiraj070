@@ -168,34 +168,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <br/>
 
-<!-- ───────────────────────────  FEATURED PROJECTS  ─────────────────────────── -->
-
-## &#x1F680; &nbsp;Featured Projects
-
-<!--
-  Replace REPLACE_REPO_1..4 with the actual repo names you want to feature.
-  Each pin links to the repo and shows stars / forks / description.
--->
-
-<div align="center">
-
-<a href="https://github.com/abhiraj070/REPLACE_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_1&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 1" />
-</a>
-<a href="https://github.com/abhiraj070/REPLACE_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_2&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 2" />
-</a>
-<br/>
-<a href="https://github.com/abhiraj070/REPLACE_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_3&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 3" />
-</a>
-<a href="https://github.com/abhiraj070/REPLACE_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_4&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 4" />
-</a>
-
-</div>
-
-<br/>
 
 <!-- ───────────────────────────  COMPETITIVE CODING + WAKATIME  ─────────────────────────── -->
 
