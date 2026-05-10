@@ -249,18 +249,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <br/>
 
-<!-- ───────────────────────────  DEV QUOTE  ─────────────────────────── -->
-
-## &#x1F4AD; &nbsp;Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="random dev quote" />
-
-</div>
-
-<br/>
-
 <!-- ───────────────────────────  CONNECT  ─────────────────────────── -->
 
 ## &#x1F517; &nbsp;Let's Connect
