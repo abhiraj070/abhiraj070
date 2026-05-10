@@ -205,22 +205,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <br/>
 
-<!-- ───────────────────────────  CONTRIBUTION SNAKE  ─────────────────────────── -->
-
-## &#x1F40D; &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiraj070/abhiraj070/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiraj070/abhiraj070/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhiraj070/abhiraj070/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 <!-- ───────────────────────────  CONNECT  ─────────────────────────── -->
 
 ## &#x1F517; &nbsp;Let's Connect
@@ -239,9 +223,9 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
-<a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
+<!-- <a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
-</a>
+</a> -->
 <!-- <a href="https://REPLACE_ME-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-FF4D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a> -->
