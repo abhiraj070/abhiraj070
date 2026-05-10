@@ -1,23 +1,29 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║   GITHUB PROFILE README — Abhiraj Sharma (@abhiraj070)               ║
+  ║   Theme: Phoenix / Ember Forge                                       ║
+  ║   Palette: #0D1117 (slate)  #FF4D2D (ember)  #FFB627 (gold)          ║
   ║                                                                      ║
-  ║   IMPORTANT: For this README to render on your GitHub profile,       ║
-  ║   the repository MUST be named exactly the same as your username:    ║
+  ║   IMPORTANT: For this README to render on your profile page, the     ║
+  ║   repository MUST be named exactly the same as your username:        ║
+  ║       Repo name -> abhiraj070                                        ║
+  ║       Repo URL  -> https://github.com/abhiraj070/abhiraj070          ║
   ║                                                                      ║
-  ║       Repo name  ->  abhiraj070                                      ║
-  ║       Repo URL   ->  https://github.com/abhiraj070/abhiraj070        ║
+  ║   THINGS TO REPLACE (search the file for each tag):                  ║
+  ║     • REPLACE_ME       — your social URLs / handles                  ║
+  ║     • VERIFY_HANDLE    — competitive coding / wakatime usernames     ║
+  ║     • REPLACE_REPO     — featured-project repo names                 ║
   ║                                                                      ║
-  ║   Replace placeholder links (LinkedIn, Twitter, email, portfolio,    ║
-  ║   etc.) with your real ones — search for "REPLACE_ME" below.         ║
+  ║   The contribution-snake images won't appear until you push this     ║
+  ║   repo and run the "Generate Contribution Snake" GitHub Action once. ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ───────────────────────────  ANIMATED HEADER WAVE  ─────────────────────────── -->
+<!-- ───────────────────────────  HEADER WAVE  ─────────────────────────── -->
 
 <a href="https://github.com/abhiraj070">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=260&section=header&text=Abhiraj%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D2D,50:F97316,100:FFB627&height=260&section=header&text=Abhiraj%20Sharma&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Undergrad%20%E2%80%A2%20Builder&descSize=18&descAlignY=58&animation=twinkling"
     alt="header banner"
   />
 </a>
@@ -26,16 +32,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&height=70&lines=Hi+there%2C+I'm+Abhiraj+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+turn+caffeine+into+code+%E2%98%95;Always+building.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4D2D&center=true&vCenter=true&width=760&height=70&lines=Hi+there%2C+I'm+Abhiraj+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Crafting+things+for+the+web;Always+shipping.+Always+learning.)](https://git.io/typing-svg)
 
 <a href="https://github.com/abhiraj070">
-  <img src="https://komarev.com/ghpvc/?username=abhiraj070&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhiraj070&label=Profile%20views&color=FF4D2D&style=for-the-badge" alt="profile views" />
 </a>
 <a href="https://github.com/abhiraj070?tab=followers">
-  <img src="https://img.shields.io/github/followers/abhiraj070?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1b27" alt="followers" />
+  <img src="https://img.shields.io/github/followers/abhiraj070?label=Followers&style=for-the-badge&color=FF4D2D&labelColor=0D1117" alt="followers" />
 </a>
 <a href="https://github.com/abhiraj070">
-  <img src="https://img.shields.io/github/stars/abhiraj070?label=Stars&style=for-the-badge&color=7C3AED&labelColor=1a1b27" alt="stars" />
+  <img src="https://img.shields.io/github/stars/abhiraj070?label=Stars&style=for-the-badge&color=FFB627&labelColor=0D1117" alt="stars" />
 </a>
 
 </div>
@@ -44,67 +50,60 @@
 
 <!-- ───────────────────────────  ABOUT ME  ─────────────────────────── -->
 
-## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></picture> &nbsp;About Me
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/c449eb1bb01a25c7a7c020a839c50b89.gif" />
+## &#x1F525; &nbsp;About Me
 
 ```yaml
-name: Abhiraj Sharma
-role: Full-Stack Developer
-location: India
+name:      Abhiraj Sharma
+role:      Full-Stack Developer
+status:    CS Undergraduate
+location:  India
+years_coding: 2-4
 focus:
-  - Building delightful web experiences
-  - Crafting clean, scalable APIs
-  - Exploring system design & DevOps
-currently_learning:
-  - Advanced TypeScript patterns
-  - Cloud architecture (AWS / Docker / K8s)
-fun_fact: I debug with console.log AND I'm not ashamed.
+  - Building delightful, production-grade web apps
+  - Designing clean, scalable REST & GraphQL APIs
+  - Sharpening DSA through competitive programming
+toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 ```
 
-- 🔭 &nbsp; Currently working on **cool side projects**
-- 🌱 &nbsp; Currently learning **system design & cloud-native dev**
-- 👯 &nbsp; Open to collaborating on **open-source & impactful ideas**
-- 💬 &nbsp; Ask me about **Node.js, React, JavaScript, REST APIs**
-- 📫 &nbsp; Reach me at **iamabhirajsharma@gmail.com**
-- ⚡ &nbsp; Fun fact: **I think semicolons are spicy**
+- &#x1F525; &nbsp; CS undergrad with **2+ years** of shipping code I'm proud of
+- &#x1F331; &nbsp; Currently learning **system design** & **distributed systems**
+- &#x1F4BB; &nbsp; Splitting my time between **full-stack web dev** and **competitive programming**
+- &#x1F91D; &nbsp; Open to collaborating on **open-source projects** and **impactful side projects**
+- &#x1F4AC; &nbsp; Ask me about **React, Next.js, Node.js, GraphQL, MongoDB, JS / TS**
+- &#x1F4EB; &nbsp; Reach me at **iamabhirajsharma@gmail.com**
+- &#x2615; &nbsp; Fun fact: **I solve problems caffeine can't.**
 
-<br clear="right"/>
+<br/>
 
-<!-- ───────────────────────────  TECH STACK  ─────────────────────────── -->
+<!-- ───────────────────────────  TECH ARSENAL  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;Tech Arsenal
+## &#x2699;&#xFE0F; &nbsp;Tech Arsenal
 
 <div align="center">
 
-#### &nbsp;&nbsp;&nbsp; Languages
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css&theme=dark" alt="languages" />
 </p>
 
-#### &nbsp;&nbsp;&nbsp; Frontend
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="frontend" />
 </p>
 
-#### &nbsp;&nbsp;&nbsp; Backend
+**Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="backend" />
 </p>
 
-#### &nbsp;&nbsp;&nbsp; Databases
+**Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="databases" />
 </p>
 
-#### &nbsp;&nbsp;&nbsp; DevOps & Cloud
+**DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,nginx,linux,bash&theme=dark" />
-</p>
-
-#### &nbsp;&nbsp;&nbsp; Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,postman,vscode,git,github&theme=dark" alt="tools" />
 </p>
 
 </div>
@@ -113,15 +112,15 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <!-- ───────────────────────────  GITHUB STATS  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="32"> &nbsp;GitHub Stats — Live
+## &#x1F4CA; &nbsp;GitHub Stats — Live
 
 <div align="center">
 
 <a href="https://github.com/abhiraj070">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abhiraj070&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abhiraj070&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&ring_color=FF4D2D" alt="github stats" />
 </a>
 <a href="https://github.com/abhiraj070">
-  <img height="195" src="https://streak-stats.demolab.com?user=abhiraj070&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+  <img height="195" src="https://streak-stats.demolab.com?user=abhiraj070&hide_border=true&background=0D1117&stroke=FF4D2D&ring=FF4D2D&fire=FFB627&currStreakLabel=FF4D2D&currStreakNum=FFB627&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
 </a>
 
 </div>
@@ -129,10 +128,10 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 <div align="center">
 
 <a href="https://github.com/abhiraj070">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj070&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj070&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF4D2D&text_color=c9d1d9" alt="top languages" />
 </a>
 <a href="https://github.com/abhiraj070">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiraj070&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=VERIFY_HANDLE_wakatime&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&layout=compact" alt="wakatime coding time" />
 </a>
 
 </div>
@@ -141,12 +140,12 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> &nbsp;Contribution Activity
+## &#x1F4C8; &nbsp;Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/abhiraj070">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiraj070&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true&area=true" alt="activity graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiraj070&bg_color=0D1117&color=FFB627&line=FF4D2D&point=FFB627&area=true&area_color=FF4D2D&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="98%" />
 </a>
 
 </div>
@@ -155,15 +154,66 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <!-- ───────────────────────────  PROFILE SUMMARY CARDS  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/gjnyVlVT7q9aQGPKTI/giphy.gif" width="32"> &nbsp;Profile Summary
+## &#x1F4DC; &nbsp;Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiraj070&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiraj070&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiraj070&theme=monokai" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiraj070&theme=monokai" alt="repos per language" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiraj070&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiraj070&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiraj070&theme=monokai" alt="most-commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiraj070&theme=monokai&utcOffset=5.5" alt="productive time" />
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────────  FEATURED PROJECTS  ─────────────────────────── -->
+
+## &#x1F680; &nbsp;Featured Projects
+
+<!--
+  Replace REPLACE_REPO_1..4 with the actual repo names you want to feature.
+  Each pin links to the repo and shows stars / forks / description.
+-->
+
+<div align="center">
+
+<a href="https://github.com/abhiraj070/REPLACE_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_1&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 1" />
+</a>
+<a href="https://github.com/abhiraj070/REPLACE_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_2&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 2" />
+</a>
+<br/>
+<a href="https://github.com/abhiraj070/REPLACE_REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_3&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 3" />
+</a>
+<a href="https://github.com/abhiraj070/REPLACE_REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=REPLACE_REPO_4&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9" alt="featured project 4" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────────  COMPETITIVE CODING + WAKATIME  ─────────────────────────── -->
+
+## &#x1F3AF; &nbsp;Competitive Programming & Coding Time
+
+<!--
+  The cards below assume your handles match "abhiraj070" — change them if not.
+  Search for VERIFY_HANDLE in this section.
+-->
+
+<div align="center">
+
+<a href="https://leetcode.com/VERIFY_HANDLE_leetcode/">
+  <img src="https://leetcard.jacoblin.cool/VERIFY_HANDLE_leetcode?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" height="200" />
+</a>
+<a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=VERIFY_HANDLE_codeforces&theme=dark" alt="codeforces stats" height="200" />
+</a>
 
 </div>
 
@@ -171,12 +221,12 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <!-- ───────────────────────────  TROPHIES  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="32"> &nbsp;Trophy Cabinet
+## &#x1F3C6; &nbsp;Trophy Cabinet
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiraj070&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Reviews" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiraj070&theme=monokai&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Reviews" alt="github trophies" />
 </a>
 
 </div>
@@ -185,7 +235,7 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <!-- ───────────────────────────  CONTRIBUTION SNAKE  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="32"> &nbsp;Watch My Contributions Get Eaten
+## &#x1F40D; &nbsp;Watch My Contributions Get Eaten
 
 <div align="center">
 
@@ -199,21 +249,21 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <br/>
 
-<!-- ───────────────────────────  RANDOM DEV QUOTE  ─────────────────────────── -->
+<!-- ───────────────────────────  DEV QUOTE  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> &nbsp;Quote of the Day
+## &#x1F4AD; &nbsp;Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="random dev quote" />
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────────  CONNECT WITH ME  ─────────────────────────── -->
+<!-- ───────────────────────────  CONNECT  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp;Let's Connect
+## &#x1F517; &nbsp;Let's Connect
 
 <div align="center">
 
@@ -229,14 +279,14 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 <a href="https://instagram.com/REPLACE_ME">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-<a href="https://leetcode.com/REPLACE_ME">
+<a href="https://leetcode.com/VERIFY_HANDLE_leetcode/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
-<a href="https://dev.to/REPLACE_ME">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+<a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
 </a>
 <a href="https://REPLACE_ME-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-FF4D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 
 </div>
@@ -247,12 +297,12 @@ fun_fact: I debug with console.log AND I'm not ashamed.
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28" /> &nbsp;Show some love
+### &#x2B50; &nbsp;Show some love
 
-If you like what I do, drop a ⭐ on my projects — it makes my day.
+If something here sparked an idea, drop a star on my projects — it genuinely makes my day.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer&animation=twinkling" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB627,50:F97316,100:FF4D2D&height=120&section=footer&animation=twinkling" alt="footer wave" />
 
 </div>
