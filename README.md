@@ -230,24 +230,21 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <a href="mailto:iamabhirajsharma@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://www.linkedin.com/in/REPLACE_ME">
+<a href="[https://www.linkedin.com/in/REPLACE_ME](https://www.linkedin.com/in/abhiraj-sharma-a66805324/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://twitter.com/REPLACE_ME">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-</a>
-<a href="https://instagram.com/REPLACE_ME">
+<a href="https://www.instagram.com/abhiraj.sharma_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-<a href="https://leetcode.com/VERIFY_HANDLE_leetcode/">
+<a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
 <a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
 </a>
-<a href="https://REPLACE_ME-portfolio.com">
+<!-- <a href="https://REPLACE_ME-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-FF4D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-</a>
+</a> -->
 
 </div>
 
