@@ -180,11 +180,8 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-<a href="https://leetcode.com/VERIFY_HANDLE_leetcode/">
+<a href="https://leetcode.com/u/AbhirajSharma/">
   <img src="https://leetcard.jacoblin.cool/VERIFY_HANDLE_leetcode?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" height="200" />
-</a>
-<a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=VERIFY_HANDLE_codeforces&theme=dark" alt="codeforces stats" height="200" />
 </a>
 
 </div>
