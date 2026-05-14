@@ -161,13 +161,13 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <a href="mailto:iamabhirajsharma@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="[https://www.linkedin.com/in/REPLACE_ME](https://www.linkedin.com/in/abhiraj-sharma-a66805324/)">
+<a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://www.instagram.com/abhiraj.sharma_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-<a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
+<a href="https://leetcode.com/u/AbhirajSharma/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
 
