@@ -1,24 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║   GITHUB PROFILE README — Abhiraj Sharma (@abhiraj070)               ║
-  ║   Theme: Phoenix / Ember Forge                                       ║
-  ║   Palette: #0D1117 (slate)  #FF4D2D (ember)  #FFB627 (gold)          ║
-  ║                                                                      ║
-  ║   IMPORTANT: For this README to render on your profile page, the     ║
-  ║   repository MUST be named exactly the same as your username:        ║
-  ║       Repo name -> abhiraj070                                        ║
-  ║       Repo URL  -> https://github.com/abhiraj070/abhiraj070          ║
-  ║                                                                      ║
-  ║   THINGS TO REPLACE (search the file for each tag):                  ║
-  ║     • REPLACE_ME       — your social URLs / handles                  ║
-  ║     • VERIFY_HANDLE    — competitive coding / wakatime usernames     ║
-  ║     • REPLACE_REPO     — featured-project repo names                 ║
-  ║                                                                      ║
-  ║   The contribution-snake images won't appear until you push this     ║
-  ║   repo and run the "Generate Contribution Snake" GitHub Action once. ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <!-- ───────────────────────────  HEADER WAVE  ─────────────────────────── -->
 
 <a href="https://github.com/abhiraj070">
@@ -116,9 +95,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-<!-- <a href="https://github.com/abhiraj070">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abhiraj070&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&ring_color=FF4D2D" alt="github stats" />
-</a> -->
 <a href="https://github.com/abhiraj070">
   <img height="195" src="https://streak-stats.demolab.com?user=abhiraj070&hide_border=true&background=0D1117&stroke=FF4D2D&ring=FF4D2D&fire=FFB627&currStreakLabel=FF4D2D&currStreakNum=FFB627&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
 </a>
@@ -126,13 +102,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 </div>
 
 <div align="center">
-
-<!-- <a href="https://github.com/abhiraj070">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj070&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF4D2D&text_color=c9d1d9" alt="top languages" />
-</a>
-<a href="https://github.com/abhiraj070">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=VERIFY_HANDLE_wakatime&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&layout=compact" alt="wakatime coding time" />
-</a> -->
 
 </div>
 
@@ -201,12 +170,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
-<!-- <a href="https://codeforces.com/profile/VERIFY_HANDLE_codeforces">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
-</a> -->
-<!-- <a href="https://REPLACE_ME-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF4D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-</a> -->
 
 </div>
 
