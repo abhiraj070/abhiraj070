@@ -127,12 +127,12 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-<a href="https://github.com/abhiraj070">
+<!-- <a href="https://github.com/abhiraj070">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj070&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF4D2D&text_color=c9d1d9" alt="top languages" />
 </a>
 <a href="https://github.com/abhiraj070">
   <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=VERIFY_HANDLE_wakatime&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&layout=compact" alt="wakatime coding time" />
-</a>
+</a> -->
 
 </div>
 
