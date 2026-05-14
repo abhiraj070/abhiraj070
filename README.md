@@ -116,9 +116,9 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-<a href="https://github.com/abhiraj070">
+<!-- <a href="https://github.com/abhiraj070">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=abhiraj070&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&ring_color=FF4D2D" alt="github stats" />
-</a>
+</a> -->
 <a href="https://github.com/abhiraj070">
   <img height="195" src="https://streak-stats.demolab.com?user=abhiraj070&hide_border=true&background=0D1117&stroke=FF4D2D&ring=FF4D2D&fire=FFB627&currStreakLabel=FF4D2D&currStreakNum=FFB627&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
 </a>
