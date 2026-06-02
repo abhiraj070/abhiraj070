@@ -89,24 +89,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <br/>
 
-<!-- ───────────────────────────  GITHUB STATS  ─────────────────────────── -->
-
-## &#x1F4CA; &nbsp;GitHub Stats — Live
-
-<div align="center">
-
-<a href="https://github.com/abhiraj070">
-  <img height="195" src="https://streak-stats.demolab.com?user=abhiraj070&hide_border=true&background=0D1117&stroke=FF4D2D&ring=FF4D2D&fire=FFB627&currStreakLabel=FF4D2D&currStreakNum=FFB627&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
-</a>
-
-</div>
-
-<div align="center">
-
-</div>
-
-<br/>
-
 <!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
 ## &#x1F4C8; &nbsp;Contribution Activity
@@ -132,21 +114,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiraj070&theme=monokai" alt="most-commit language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiraj070&theme=monokai&utcOffset=5.5" alt="productive time" />
-
-</div>
-
-<br/>
-
-
-<!-- ───────────────────────────  TROPHIES  ─────────────────────────── -->
-
-## &#x1F3C6; &nbsp;Trophy Cabinet
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiraj070&theme=monokai&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Reviews" alt="github trophies" />
-</a>
 
 </div>
 
