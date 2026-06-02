@@ -30,7 +30,7 @@
 
 <!-- ───────────────────────────  ABOUT ME  ─────────────────────────── -->
 
-## &#x1F525;About Me
+## About Me
 
 ```yaml
 name: Abhiraj Sharma
@@ -59,7 +59,7 @@ toolbelt:
   ]
 ```
 
-- 2nd year IT undergrad
+- Second year undergrad student at MSIT majoring in Information Technology.
 - Currently learning **system design** & **distributed systems**
 - Splitting my time between **full-stack web dev** and **competitive programming**
 - Ask me about **React, Next.js, Node.js, MongoDB, JS / TS**
