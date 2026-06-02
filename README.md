@@ -29,7 +29,7 @@
 
 <!-- ───────────────────────────  ABOUT ME  ─────────────────────────── -->
 
-## &#x1F525; &nbsp;About Me
+## &#x1F525;About Me
 
 ```yaml
 name:      Abhiraj Sharma
@@ -44,19 +44,17 @@ focus:
 toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 ```
 
-- &#x1F525; &nbsp; CS undergrad with **2+ years** of shipping code I'm proud of
-- &#x1F331; &nbsp; Currently learning **system design** & **distributed systems**
-- &#x1F4BB; &nbsp; Splitting my time between **full-stack web dev** and **competitive programming**
-- &#x1F91D; &nbsp; Open to collaborating on **open-source projects** and **impactful side projects**
-- &#x1F4AC; &nbsp; Ask me about **React, Next.js, Node.js, GraphQL, MongoDB, JS / TS**
-- &#x1F4EB; &nbsp; Reach me at **iamabhirajsharma@gmail.com**
-- &#x2615; &nbsp; Fun fact: **I solve problems caffeine can't.**
+- &#x1F525;  2nd year IT undergrad
+- &#x1F331;  Currently learning **system design** & **distributed systems**
+- &#x1F4BB;  Splitting my time between **full-stack web dev** and **competitive programming**
+- &#x1F4AC;  Ask me about **React, Next.js, Node.js, GraphQL, MongoDB, JS / TS**
+- &#x1F4EB;  Reach me at **iamabhirajsharma@gmail.com**
 
 <br/>
 
 <!-- ───────────────────────────  TECH ARSENAL  ─────────────────────────── -->
 
-## ⚙️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -112,7 +110,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
-## &#x1F4C8; &nbsp;Contribution Activity
+## &#x1F4C8;Contribution Activity
 
 <div align="center">
 
@@ -126,7 +124,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <!-- ───────────────────────────  PROFILE SUMMARY CARDS  ─────────────────────────── -->
 
-## &#x1F4DC; &nbsp;Profile Summary
+## &#x1F4DC;Profile Summary
 
 <div align="center">
 
@@ -167,9 +165,9 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-### &#x2B50; &nbsp;Show some love
+### &#x2B50; Show some love
 
-If something here sparked an idea, drop a star on my projects — it genuinely makes my day.
+If something here sparked an idea, drop a star on my projects.
 
 <br/>
 
