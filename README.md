@@ -11,7 +11,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4D2D&center=true&vCenter=true&width=760&height=70&lines=Hi+there%2C+I'm+Abhiraj+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Crafting+things+for+the+web;Always+shipping.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4D2D&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Abhiraj+Sharma;IT+Student+%40+GGSIPU;Building+Full-Stack+%26+Real-Time+Applications;Competitive+Programmer+%26+Problem+Solver;Exploring+AI+Agents+and+System+Design)](https://git.io/typing-svg)
+
 
 <a href="https://github.com/abhiraj070">
   <img src="https://komarev.com/ghpvc/?username=abhiraj070&label=Profile%20views&color=FF4D2D&style=for-the-badge" alt="profile views" />
@@ -32,23 +33,37 @@
 ## &#x1F525;About Me
 
 ```yaml
-name:      Abhiraj Sharma
-role:      Full-Stack Developer
-status:    CS Undergraduate
-location:  India
-years_coding: 2-4
+name: Abhiraj Sharma
+role: Software Developer
+status: IT Undergraduate @ GGSIPU
+location: India
+
 focus:
-  - Building delightful, production-grade web apps
-  - Designing clean, scalable REST & GraphQL APIs
-  - Sharpening DSA through competitive programming
-toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
+  - Full-Stack Development
+  - Competitive Programming & DSA
+  - Real-Time Systems
+  - System Design
+  - AI Agents & LLMs
+
+toolbelt:
+  [
+    JavaScript,
+    TypeScript,
+    React,
+    Next.js,
+    Node.js,
+    Express,
+    MongoDB,
+    Redis,
+    Socket.IO
+  ]
 ```
 
-- &#x1F525;  2nd year IT undergrad
-- &#x1F331;  Currently learning **system design** & **distributed systems**
-- &#x1F4BB;  Splitting my time between **full-stack web dev** and **competitive programming**
-- &#x1F4AC;  Ask me about **React, Next.js, Node.js, GraphQL, MongoDB, JS / TS**
-- &#x1F4EB;  Reach me at **iamabhirajsharma@gmail.com**
+- 2nd year IT undergrad
+- Currently learning **system design** & **distributed systems**
+- Splitting my time between **full-stack web dev** and **competitive programming**
+- Ask me about **React, Next.js, Node.js, MongoDB, JS / TS**
+- Reach me at **iamabhirajsharma@gmail.com**
 
 <br/>
 
@@ -110,7 +125,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
-## &#x1F4C8;Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -124,7 +139,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <!-- ───────────────────────────  PROFILE SUMMARY CARDS  ─────────────────────────── -->
 
-## &#x1F4DC;Profile Summary
+## Profile Summary
 
 <div align="center">
 
@@ -140,7 +155,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <!-- ───────────────────────────  CONNECT  ─────────────────────────── -->
 
-## &#x1F517; &nbsp;Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -149,9 +164,6 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 </a>
 <a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://www.instagram.com/abhiraj.sharma_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 <a href="https://leetcode.com/u/AbhirajSharma/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
@@ -165,7 +177,7 @@ toolbelt: [JavaScript, TypeScript, React, Next.js, Node.js, MongoDB]
 
 <div align="center">
 
-### &#x2B50; Show some love
+### Show some love
 
 If something here sparked an idea, drop a star on my projects.
 
