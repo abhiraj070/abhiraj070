@@ -18,12 +18,12 @@ location    = New Delhi, India
 year        = thirs
 
 [stack]
-languages   = TypeScript, JavaScript, Python, C++
+languages   = TypeScript, JavaScript, Python, C++, SQL
 frontend    = React, Next.js, Tailwind CSS
-backend     = Node.js, Express, GraphQL, Socket.IO, BullMQ, Fastapi, Django
+backend     = Node.js, Express, REST Api, GraphQL, Socket.IO, BullMQ, Fastapi, Django
 AI          = AI Agents, Pydantic.ai
 data        = MongoDB, Redis, PostgreSQL
-infra       = Docker, GitHub Actions, Vercel, Postman
+infra       = Docker, GitHub Actions, Vercel, Postman, Git
 
 [currently]
 building    = real-time, socket-driven web applications
