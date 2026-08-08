@@ -15,14 +15,15 @@
 name        = Abhiraj Sharma
 education   = B.Tech Information Technology — MSIT, GGSIPU
 location    = New Delhi, India
-year        = second
+year        = thirs
 
 [stack]
 languages   = TypeScript, JavaScript, Python, C++
 frontend    = React, Next.js, Tailwind CSS
-backend     = Node.js, Express, GraphQL, Socket.IO, BullMQ
+backend     = Node.js, Express, GraphQL, Socket.IO, BullMQ, Fastapi, Django
+AI          = AI Agents, Pydantic.ai
 data        = MongoDB, Redis, PostgreSQL
-infra       = Docker, GitHub Actions, Vercel
+infra       = Docker, GitHub Actions, Vercel, Postman
 
 [currently]
 building    = real-time, socket-driven web applications
@@ -32,18 +33,6 @@ open_to     = internships, collaboration, hard backend problems
 ```
 
 I like problems where the hard part is what happens *between* requests — sockets that have to stay in sync, jobs that have to survive a restart, state that several people touch at once. Most of what I build ends up being real-time, and most of what I'm reading right now is about making that hold up under load.
-
-### Selected work
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[CodeArena](https://github.com/abhiraj070/CodeArena)** | Collaborative coding platform — live code sync, remote execution, microservice split | Node.js · WebSockets · Redis |
-| **[MyNetaji](https://github.com/abhiraj070/MyNetaji)** | Civic accountability app that resolves your representative from GPS position | Next.js · MongoDB · Leaflet |
-| **[Skribbl.io](https://github.com/abhiraj070/Skribbl.io)** | Multiplayer draw-and-guess game with private rooms and a shared canvas | Socket.IO · Express · React |
-| **[NoteAi](https://github.com/abhiraj070/NoteAi)** | Notes app that titles and summarises entries as you write | React · Node.js · Gemini API |
-| **[Launchpad](https://github.com/abhiraj070/Launchpad)** | Single surface to discover and launch everything I've shipped | Next.js · Vercel |
-
-<sub><a href="https://github.com/abhiraj070?tab=repositories">All repositories →</a></sub>
 
 ### Reach me
 
