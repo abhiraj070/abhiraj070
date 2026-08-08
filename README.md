@@ -1,188 +1,82 @@
-<!-- ───────────────────────────  HEADER WAVE  ─────────────────────────── -->
-
-<a href="https://github.com/abhiraj070">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D2D,50:F97316,100:FFB627&height=260&section=header&text=Abhiraj%20Sharma&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Undergrad%20%E2%80%A2%20Builder&descSize=18&descAlignY=58&animation=twinkling"
-    alt="header banner"
-  />
-</a>
-
-<!-- ───────────────────────────  TYPING ANIMATION  ─────────────────────────── -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4D2D&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Abhiraj+Sharma;IT+Student+%40+GGSIPU;Building+Full-Stack+%26+Real-Time+Applications;Competitive+Programmer+%26+Problem+Solver;Exploring+AI+Agents+and+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4D2D&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Abhiraj+Sharma;IT+Undergrad+%40+MSIT%2C+GGSIPU;Full-Stack+%26+Real-Time+Systems;Competitive+Programmer;Exploring+AI+Agents+%26+System+Design)](https://github.com/abhiraj070)
 
-
-<a href="https://github.com/abhiraj070">
-  <img src="https://komarev.com/ghpvc/?username=abhiraj070&label=Profile%20views&color=FF4D2D&style=for-the-badge" alt="profile views" />
-</a>
-<a href="https://github.com/abhiraj070?tab=followers">
-  <img src="https://img.shields.io/github/followers/abhiraj070?label=Followers&style=for-the-badge&color=FF4D2D&labelColor=0D1117" alt="followers" />
-</a>
-<a href="https://github.com/abhiraj070">
-  <img src="https://img.shields.io/github/stars/abhiraj070?label=Stars&style=for-the-badge&color=FFB627&labelColor=0D1117" alt="stars" />
-</a>
+[![Profile views](https://komarev.com/ghpvc/?username=abhiraj070&label=Views&color=FF4D2D&style=for-the-badge)](https://github.com/abhiraj070)
+[![Followers](https://img.shields.io/github/followers/abhiraj070?label=Followers&style=for-the-badge&color=FF4D2D&labelColor=0D1117)](https://github.com/abhiraj070?tab=followers)
+[![Stars](https://img.shields.io/github/stars/abhiraj070?label=Stars&style=for-the-badge&color=FFB627&labelColor=0D1117)](https://github.com/abhiraj070?tab=repositories)
 
 </div>
 
-<br/>
+## About
 
-<!-- ───────────────────────────  ABOUT ME  ─────────────────────────── -->
+Second-year IT undergrad at **MSIT (GGSIPU)**, India. I build **full-stack and real-time applications** — WebSockets, queues, and the system design around them — and grind **DSA / competitive programming** on the side.
 
-## About Me
-
-```yaml
-name: Abhiraj Sharma
-role: Software Developer
-status: IT Undergraduate @ GGSIPU
-location: India
-
-focus:
-  - Full-Stack Development
-  - Competitive Programming & DSA
-  - Real-Time Systems
-  - System Design
-  - AI Agents & LLMs
-
-toolbelt:
-  [
-    JavaScript,
-    TypeScript,
-    React,
-    Next.js,
-    Node.js,
-    Express,
-    MongoDB,
-    Redis,
-    Socket.IO
-  ]
-```
-
-- Second year undergrad student at MSIT majoring in Information Technology.
-- Currently learning **system design** & **distributed systems**
-- Splitting my time between **full-stack web dev** and **competitive programming**
-- Ask me about **React, Next.js, Node.js, MongoDB, JS / TS**
+- Currently learning **system design** and **distributed systems**
+- Ask me about **React, Next.js, Node.js, MongoDB, JS/TS**
 - Reach me at **iamabhirajsharma@gmail.com**
 
-<br/>
-
-<!-- ───────────────────────────  TECH ARSENAL  ─────────────────────────── -->
-
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-<br/>
-
-<!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
-
-## Contribution Activity
+## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/abhiraj070">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiraj070&bg_color=0D1117&color=FFB627&line=FF4D2D&point=FFB627&area=true&area_color=FF4D2D&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="98%" />
+<a href="https://github.com/abhiraj070/CodeArena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=CodeArena&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/abhiraj070/MyNetaji">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=MyNetaji&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/abhiraj070/Skribbl.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=Skribbl.io&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/abhiraj070/NoteAi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiraj070&repo=NoteAi&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&hide_border=true" />
 </a>
 
 </div>
 
-<br/>
-
-<!-- ───────────────────────────  PROFILE SUMMARY CARDS  ─────────────────────────── -->
-
-## Profile Summary
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiraj070&theme=monokai" alt="profile details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiraj070&theme=monokai" alt="repos per language" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiraj070&theme=monokai" alt="most-commit language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiraj070&theme=monokai&utcOffset=5.5" alt="productive time" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiraj070&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF4D2D&icon_color=FFB627&text_color=c9d1d9&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj070&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF4D2D&text_color=c9d1d9&hide_border=true" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=abhiraj070&background=0D1117&ring=FF4D2D&fire=FFB627&currStreakLabel=FF4D2D&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiraj070&bg_color=0D1117&color=FFB627&line=FF4D2D&point=FFB627&area=true&area_color=FF4D2D&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
-<br/>
-
-<!-- ───────────────────────────  CONNECT  ─────────────────────────── -->
-
-## Let's Connect
+## Connect
 
 <div align="center">
 
-<a href="mailto:iamabhirajsharma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-<a href="https://www.linkedin.com/in/abhiraj-sharma-a66805324/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://leetcode.com/u/AbhirajSharma/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ───────────────────────────  FOOTER  ─────────────────────────── -->
-
-<div align="center">
-
-### Show some love
-
-If something here sparked an idea, drop a star on my projects.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB627,50:F97316,100:FF4D2D&height=120&section=footer&animation=twinkling" alt="footer wave" />
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabhirajsharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-sharma-a66805324/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbhirajSharma/)
 
 </div>
