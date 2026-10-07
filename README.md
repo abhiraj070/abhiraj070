@@ -15,7 +15,7 @@
 name        = Abhiraj Sharma
 education   = B.Tech Information Technology — MSIT, GGSIPU
 location    = New Delhi, India
-year        = thirs
+year        = third
 
 [stack]
 languages   = TypeScript, JavaScript, Python, C++, SQL
