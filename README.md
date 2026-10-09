@@ -36,4 +36,4 @@ I like problems where the hard part is what happens *between* requests — socke
 
 ### Reach me
 
-**iamabhirajsharma@gmail.com** — happy to talk about React, Next.js, Node, Mongo, or anything real-time.
+**iamabhirajsharma@gmail.com**
